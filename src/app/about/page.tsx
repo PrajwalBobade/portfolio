@@ -55,13 +55,13 @@ const CONTACT_LINKS = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/zende-abhijit/",
-    content: "/zende-abhijit",
+    href: "https://www.linkedin.com/in/prajwal-bobade-061104245",
+    content: "/bobade-prajwal",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/Abhiz2411",
+    href: "https://github.com/prajuz2411",
     content: "/naresh-khatri",
     icon: <FaGithub height={"50px"} />,
   },
@@ -287,7 +287,7 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Abhijit, a Comp. Sci. Engineer with 1.5 year experience in Devlopment, DevOps and 
+              Hey there! I&apos;m prajwal, a Comp. Sci. Engineer with 1.5 year experience in Devlopment, DevOps and 
               Database management with hands-on experience in deploying & automating workflows, and 
               collaborating with foreign clients. Strong analytical skills,effective communication,
               and a team-oriented approach to driving process improvements and delivering results.

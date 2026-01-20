@@ -32,7 +32,7 @@ const PROJECTS = [
             scaling challenges. The project involves automating infrastructure provisioning, build 
             and deployment processes, and continuous monitoring using modern DevOps tools and 
             AWS services.?`,
-    link: "https://github.com/Abhiz2411/FinanceMe-Devops-Project-01",
+    link: "https://github.com/prajuz2411/FinanceMe-Devops-Project-01",
     images: [
       "/assets/projects-screenshots/financeme/1.png",
       "/assets/projects-screenshots/financeme/2.png",
@@ -67,7 +67,7 @@ const PROJECTS = [
             that visualizes availability and an intelligent system for quick, optimal decisions. 
             Built to adapt with customizable hardware and Python-powered software for seamless 
             integration. Say goodbye to parking woes and hello to smarter space utilization!`,
-    link: "https://github.com/Abhiz2411/smart-parking-assistant",
+    link: "https://github.com/prajuz2411/smart-parking-assistant",
     images: [
       "/assets/projects-screenshots/smartparkingassitant/01.jpeg",
       "/assets/projects-screenshots/smartparkingassitant/03.jpeg",
